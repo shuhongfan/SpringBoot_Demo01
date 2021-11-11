@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-03-logging/spring-boot-03-logging.iml" filepath="$PROJECT_DIR$/spring-boot-03-logging/spring-boot-03-logging.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-04-restfulcrud/spring-boot-04-restfulcrud.iml" filepath="$PROJECT_DIR$/spring-boot-04-restfulcrud/spring-boot-04-restfulcrud.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-06-data-jdbc/spring-boot-06-data-jdbc.iml" filepath="$PROJECT_DIR$/spring-boot-06-data-jdbc/spring-boot-06-data-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-06-data-jpa/spring-boot-06-data-jpa.iml" filepath="$PROJECT_DIR$/spring-boot-06-data-jpa/spring-boot-06-data-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-06-data-mybatis/spring-boot-06-data-mybatis.iml" filepath="$PROJECT_DIR$/spring-boot-06-data-mybatis/spring-boot-06-data-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-07-cache/spring-boot-07-cache.iml" filepath="$PROJECT_DIR$/spring-boot-07-cache/spring-boot-07-cache.iml" />
     </modules>
   </component>
 </project>

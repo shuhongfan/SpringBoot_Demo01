@@ -24,5 +24,10 @@ spring:
     connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=500
 
 #    schema:
-#      - classpath:department.sql
+#      - classpath:sql/department.sql
+#      - classpath:sql/employee.sql
 #    initialization-mode: always
+
+mybatis:
+  config-location: classpath:mybatis/mybatis-config.xml
+  mapper-locations: classpath:mybatis/mapper/*.xml

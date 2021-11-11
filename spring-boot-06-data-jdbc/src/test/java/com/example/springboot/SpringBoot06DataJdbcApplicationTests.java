@@ -19,6 +19,6 @@ class SpringBoot06DataJdbcApplicationTests {
         System.out.println(dataSource.getClass());
         Connection connection = dataSource.getConnection();
         System.out.println(connection);
+        connection.close();
     }
-
 }

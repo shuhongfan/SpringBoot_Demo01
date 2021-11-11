@@ -8,6 +8,9 @@
         <option value="$PROJECT_DIR$/spring-boot-03-logging/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-04-restfulcrud/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-06-data-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-06-data-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-06-data-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-07-cache/pom.xml" />
       </list>
     </option>
   </component>

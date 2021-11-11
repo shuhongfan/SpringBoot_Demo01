@@ -6,11 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-07-cache" />
+        <module name="spring-boot-06-data-jpa" />
+        <module name="spring-boot-06-data-jdbc" />
         <module name="spring-boot-03-logging" />
         <module name="spring-boot-04-restfulcrud" />
+        <module name="spring-boot-06-data-mybatis" />
         <module name="spring-boot-01-helloworld-quick" />
         <module name="sping-boot-01-helloworld" />
-        <module name="spring-boot-06-data-jdbc" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,6 +22,9 @@
       <module name="spring-boot-03-logging" target="1.8" />
       <module name="spring-boot-04-restfulcrud" target="1.8" />
       <module name="spring-boot-06-data-jdbc" target="1.8" />
+      <module name="spring-boot-06-data-jpa" target="1.8" />
+      <module name="spring-boot-06-data-mybatis" target="1.8" />
+      <module name="spring-boot-07-cache" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -27,6 +33,9 @@
       <module name="spring-boot-03-logging" options="" />
       <module name="spring-boot-04-restfulcrud" options="" />
       <module name="spring-boot-06-data-jdbc" options="-parameters" />
+      <module name="spring-boot-06-data-jpa" options="-parameters" />
+      <module name="spring-boot-06-data-mybatis" options="-parameters" />
+      <module name="spring-boot-07-cache" options="-parameters" />
     </option>
   </component>
 </project>
